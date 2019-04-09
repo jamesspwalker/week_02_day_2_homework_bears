@@ -33,18 +33,5 @@ class BearTest < MiniTest::Test
 
   end
 
-  # def test_pick_up_from_stop()
-  #   @stop1 = BusStop.new("Elm Row")
-  #   @stop1.add_to_queue(@passenger1)
-  #   @bus.pick_up_from_stop(@stop1)
-  #   assert_equal(1, @bus.passenger_count())
-  #   assert_equal(0, @stop1.queue_length())
-  # end
-
-  # A bear should be able to take a fish from the river
-  #
-  # A river should lose a fish when a bear takes a fish
-
-
 
 end
